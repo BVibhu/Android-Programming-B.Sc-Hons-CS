@@ -1,4 +1,7 @@
 # Android Programming
+### All these practicals were done to understand the core concepts of the subject, the practicals done are mentioned below.   
+
+
 ## Practical List
 1. Create “Hello World” application. That will display “Hello World” in the middle of the
 screen in the emulator. Also display “Hello World” in the middle of the screen in the
